@@ -1,0 +1,10 @@
+--class-path src
+
+--library format
+--library heaps
+--library hldx
+--library hscript
+
+--hl build/blocks.hl
+
+--main blocks.Main
